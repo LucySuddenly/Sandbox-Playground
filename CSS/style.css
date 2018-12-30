@@ -26,3 +26,12 @@ body {
 h1 {
   font: bold 2.6em 'Indie Flower', cursive;
 }
+.nav{
+        display: inline-block;
+        text-align: center;
+        background-color: #eee;
+        height: 2em;
+        border-radius: 2em;
+        width: auto;
+        
+}
