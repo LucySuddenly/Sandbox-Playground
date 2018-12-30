@@ -1,8 +1,28 @@
 body {
   background-image: url(../images/rainbow.jpg);
+  background-size: cover;
 }
 #main {
   background-color: #eee;
   padding-left: 2em;
   padding-right: 2em;
+  float: left;
+  margin-left: 3%;
+  margin-right: 5%;
+  margin-top: 2em;
+  width: 90%;
+}
+#footer {
+  padding-left: 2em;
+  padding-right: 2em;
+  float: left;
+  margin-left: 3%;
+  margin-right: 5%;
+  margin-top: 2em;
+  width: 90%;
+  color: #eee
+  font: italic .75em
+}
+h1 {
+  font: bold 2.6em 'Indie Flower', cursive;
 }
